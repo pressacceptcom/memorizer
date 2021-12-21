@@ -87,6 +87,17 @@ func _init(
 
 
 # ******************
+# | Setget Methods |
+# ******************
+
+
+func _set_byte_pool_size(
+		new_byte_pool_size: int) -> void:
+
+	pass
+
+
+# ******************
 # | Public Methods |
 # ******************
 
